@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Romanovskii Arsenii
-- 👀 I’m interested in maritime transportation, maritime construction, factory automation, and medical technology.
-- 🌱 I’m currently learning C# Development
-- 💞️ I’m looking to collaborate with companies developing software for logistics, medicine, and manufacturing.
+- 👀 I’m interested in technology, biology, logistics, and marine vessels.
+- 🌱 I’m currently practicing .NET C# development
+- 💞️ I’m looking to collaborate with companies developing software for science, logistics, and manufacturing.
+- ✨ I speak english and russian.
 - 📫 romanovskyway@gmail.com
 - 📫 https://www.linkedin.com/in/arsenii-romanovskii
 
