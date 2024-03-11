@@ -4,6 +4,6 @@
 - 🤔 I’m interested in 📡 technologies, 🤖 robotics, 🧬 biology, and ⚓ marine vessels 
 - 🗣️ I speak English (С1) and Russian (Native)
 - 📫 E-Mail:     romanovskyway@gmail.com
-- 🔥 Codepen:    https://codepen.io/16_wheeler_horse
+- 🔥 Codepen:    https://codepen.io/RomanovskiiArsenii
 - 🪪 LinkedIn:   https://www.linkedin.com/in/arsenii-romanovskii
 - 🌍 Website:    https://romanovskiiarsenii.github.io/cv/index.html
